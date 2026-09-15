@@ -25,7 +25,7 @@
 * I'm a student programmer specializing in software development and academic projects.
 * I build robust backend architecture in Python (Django) and develop desktop GUI utilities.
 * I'm studying systems programming in C++ (working with network sockets) and information security (Kali Linux, OSINT, web vulnerability testing).
-* I combine coding with creating digital content for YouTube and TikTok, and in my free time, I relax by playing video games. *
+* I combine coding with creating digital content for YouTube and TikTok, and in my free time, I relax by playing video games. 
 * My main goal: become IT-specialist in Cybersecurity
 
 ---
@@ -54,7 +54,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tecamm&repo=disk-cleaner&theme=tokyonight&hide_border=true" width="48%" />
   </a>
 </p>
----
 
 ## 📫 Socials
 
